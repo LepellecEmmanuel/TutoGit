@@ -1,0 +1,4 @@
+Bonjour à tous!
+
+Ceci est un fichier txt dans un dossier me permettant
+de tester l'utilisation de git et GitHub.
